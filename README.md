@@ -17,7 +17,7 @@
 <a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
 
 </div>
-
+It's a community based project that I found to be very interesting and kudos to the devs for this awesome work.
 A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
 
 ## A sneak peek into what we have here🙈 :
